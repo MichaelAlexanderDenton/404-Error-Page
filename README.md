@@ -32,7 +32,12 @@
 
 ## Overview
 
-![screenshot]
+## Desktop: 
+![screenshot] (https://user-images.githubusercontent.com/55595538/101543771-f7d0ad00-39a4-11eb-9569-1a27aab5ac4b.png)
+
+## Mobile:
+![screenshot] (https://user-images.githubusercontent.com/55595538/101543750-f1dacc00-39a4-11eb-8673-5579c93ad8e6.png)
+
 
 - Where can I see your demo? <br>
     You can download/clone my repository for that. I haven't deployed it yet. <br>
