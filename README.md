@@ -32,23 +32,16 @@
 
 ## Overview
 
+## Desktop: 
 https://user-images.githubusercontent.com/55595538/101543771-f7d0ad00-39a4-11eb-9569-1a27aab5ac4b.png
 
-(https://user-images.githubusercontent.com/55595538/101543750-f1dacc00-39a4-11eb-8673-5579c93ad8e6.png)
+## Mobile:
+https://user-images.githubusercontent.com/55595538/101543750-f1dacc00-39a4-11eb-8673-5579c93ad8e6.png
 
 
-- Where can I see your demo? <br>
-    You can download/clone my repository for that. I haven't deployed it yet. <br>
-- What was your experience? <br>
-    First time building a website after long time of learning :) <br>
-- What have you learned/improved? <br>
-    I did some mistakes when I was building the page: <br>
-    Learned: <br>
-        -I used the grid system to separate the scarecrow photo and the text on the right. but when you switch to mobile mode or shrink to lower width, the footer got up in the middle of the page. using flexbox fixed the issue. <br>
-    Improved: <br>
-        -Definitely stuff about positioning :) <br>
-- Your wisdom? :) <br>
-    Keep coding :) That's all I can say. <br>
+You can download/clone my repository for that. I haven't deployed it yet. <br>
+I did some mistakes when I was building the page: <br>
+    -I used the grid system to separate the scarecrow photo and the text on the right. but when you switch to mobile mode or shrink to lower width, the footer got up in the middle of the page. using flexbox fixed the issue. <br>
 
 ### Built With
 
