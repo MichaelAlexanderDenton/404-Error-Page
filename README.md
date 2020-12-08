@@ -26,11 +26,7 @@
 
 ## Table of Contents
 
-- [Overview](A simple 404 Error page. Responsive.)
-  - [Built With](HTML/CSS only)
-- [Features](Responsive for mobile devices)
-- [Contact](https://github.com/MichaelAlexanderDenton)
-- [Acknowledgements](Nothing to see here :) )
+- A simple 404 Error page. Responsive.
 
 <!-- OVERVIEW -->
 
@@ -38,20 +34,18 @@
 
 ![screenshot]
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-    You can download/clone my repository for that. I haven't deployed it yet.
-- What was your experience?
-    First time building a website after long time of learning :)
-- What have you learned/improved?
-    I did some mistakes when I was building the page:
-    Learned:
-        -I used the grid system to separate the scarecrow photo and the text on the right. but when you switch to mobile mode or shrink to lower width, the footer got up in the middle of the page. using flexbox fixed the issue.
-    Improved:
-        -Definitely stuff about positioning :)
-- Your wisdom? :)
-    Keep coding :) That's all I can say.
+- Where can I see your demo? <br>
+    You can download/clone my repository for that. I haven't deployed it yet. <br>
+- What was your experience? <br>
+    First time building a website after long time of learning :) <br>
+- What have you learned/improved? <br>
+    I did some mistakes when I was building the page: <br>
+    Learned: <br>
+        -I used the grid system to separate the scarecrow photo and the text on the right. but when you switch to mobile mode or shrink to lower width, the footer got up in the middle of the page. using flexbox fixed the issue. <br>
+    Improved: <br>
+        -Definitely stuff about positioning :) <br>
+- Your wisdom? :) <br>
+    Keep coding :) That's all I can say. <br>
 
 ### Built With
 
@@ -75,4 +69,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/MichaelAlexanderDenton)
+- GitHub [@MichaelAlexanderDenton](https://github.com/MichaelAlexanderDenton)
