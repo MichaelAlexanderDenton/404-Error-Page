@@ -39,8 +39,8 @@ https://user-images.githubusercontent.com/55595538/101543771-f7d0ad00-39a4-11eb-
 https://user-images.githubusercontent.com/55595538/101543750-f1dacc00-39a4-11eb-8673-5579c93ad8e6.png
 
 
-You can download/clone my repository for that. I haven't deployed it yet. <br>
-I did some mistakes when I was building the page: <br>
+-You can download/clone my repository for that. I haven't deployed it yet. <br>
+-I did some mistakes when I was building the page: <br>
     -I used the grid system to separate the scarecrow photo and the text on the right. but when you switch to mobile mode or shrink to lower width, the footer got up in the middle of the page. using flexbox fixed the issue. <br>
 
 ### Built With
