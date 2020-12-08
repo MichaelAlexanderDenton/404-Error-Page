@@ -1,0 +1,25 @@
+#main-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.body-img-scarecrow img{
+    display: flex;
+    justify-content: center;
+}
+.error-title{
+    font-size: 48px;
+    line-height: 71.09px;
+}
+
+.error-text{
+    width: 80%;
+    font-size: 18px;
+    line-height: 26.66px;
+}
+
+.btn-primary{
+    padding: 0.75rem 1.25rem;
+}
